@@ -3,10 +3,10 @@
 
 ## Candidate Details
 
-Full Name: Nahush K S
-Email ID: nahush6091@gmail.com
-College Name: Dayananda Sagar University, Bengaluru
-Selected Skill Track: Java/Node.js & API Development
+- Full Name: Nahush K S
+- Email ID: nahush6091@gmail.com
+- College Name: Dayananda Sagar University, Bengaluru
+- Selected Skill Track: Java/Node.js & API Development
 
 ## Project Title
 
